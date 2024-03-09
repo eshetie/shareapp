@@ -52,6 +52,7 @@ graphene==3.3
 graphene-django==3.1.5
 graphql-core==3.2.3
 graphql-relay==3.2.0
+gunicorn==21.2.0
 h11==0.13.0
 httpcore==0.16.3
 httpx==0.24.1
