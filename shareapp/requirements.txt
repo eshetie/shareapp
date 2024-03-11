@@ -142,8 +142,6 @@ torrequest==0.1.0
 traitlets==5.5.0
 trio==0.21.0
 trio-websocket==0.9.2
-Twisted==23.10.0
-twisted-iocpsupport==1.0.4
 txtorcon==23.11.0
 typing_extensions==4.8.0
 tzdata==2022.5
