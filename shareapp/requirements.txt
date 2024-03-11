@@ -60,7 +60,6 @@ hyperlink==21.0.0
 idna==3.3
 incremental==22.10.0
 inflection==0.5.1
-infoga==0.1.5
 ipykernel==6.20.2
 ipython==8.6.0
 itsdangerous==2.1.2
