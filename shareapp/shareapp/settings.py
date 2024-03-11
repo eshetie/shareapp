@@ -80,10 +80,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'shareapp',
-        'USER': 'postgres',
-        'PASSWORD': 'root',
-        'HOST': 'localhost',
-        'PORT': '5433'
+        'USER': 'root',
+        'PASSWORD': 'w1BoKINDUOPaUjF0ntz9qsb4FcbaZahn',
+        'HOST': 'dpg-cnm1nuacn0vc73dskg1g-a',
+        'PORT': '5432'
     }
 }
 
