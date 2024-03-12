@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-tczry*41(@exr#kf8$wrb-6i&axy=v*n#=qy+18(gtk1r3kgg_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG =True # os.environ.get("DEBUG", "False").lower()=="true"
 
-ALLOWED_HOSTS = os.environ.get("ALLOWED_HOSTS").split(" ") #["shareapp-umcz.onrender.com"]
+ALLOWED_HOSTS = ["shareapp-umcz.onrender.com"] #os.environ.get("ALLOWED_HOSTS").split(" ") #
 
 
 # Application definition
