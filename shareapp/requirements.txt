@@ -34,6 +34,7 @@ debugpy==1.6.5
 decorator==5.1.1
 DictObject==1.1.1
 Django==4.2.6
+dj-database-url==2.1.0
 django-rest-framework==0.1.0
 djangorestframework==3.14.0
 djangorestframework-simplejwt==5.3.1
